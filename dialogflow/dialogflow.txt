@@ -1,0 +1,9 @@
+Dialogflow
+
+Instructions:
+Build an example to take the input from the user from Google Assistant (E.g: Once the user says, I want to report a reckless driver, Google should ask, whats the name of the car and the number plate, and user should be able to provide it. Once the user provides the input, Google should respond saying: The details are saved and it should repeat the user inputted car number and name)
+
+Links:
+Agent: https://console.actions.google.com/u/0/project/test-21c02/simulator/
+
+Dialogflow: https://console.dialogflow.com/api-client/#/agent/0d842b04-2bcb-43e8-bb83-2f38c8223ab7/editEntity/d06c711a-c06a-47c7-a2b6-251b2bd32c00
