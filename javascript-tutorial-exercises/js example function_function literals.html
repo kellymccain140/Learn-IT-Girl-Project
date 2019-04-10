@@ -1,0 +1,46 @@
+<!--
+The syntax for a funciton literal is much like a function statement, except that it is used as an expression rather than a statement and no function name is required.
+
+<script type = "text/javascript">
+	
+		var variable name = function(Argument List) {
+			Function Body
+		};
+</script>
+
+Syntactically, you can specify a function name while creating a literal function as follows.  But the name does not have any significance, so it is not worthwhile.
+
+<script type = "text/javascript">
+
+		var variablename = function FunctionName(Argument List) {
+			Function Body
+		};
+</script> 
+-->
+
+<!DOCTYPE html>
+	<head>
+		<script type = "text/javascript">
+
+                var func = function(x,y) {
+					return x*y
+				};
+				function secondFunction() {
+					var result;
+					result = func(10,20);
+					document.write ( result );
+				}
+                
+		</script>
+	</head>
+
+	<body>
+		<p>Click the following button to call the function</p>
+
+		<form>
+			<input type = "button" onclick = "secondFunction()" value = "Call Function">
+		</form>
+
+		<p>Use different parameters inside the function and then try...</p>
+	</body>
+</html>

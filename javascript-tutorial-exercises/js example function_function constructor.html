@@ -1,0 +1,30 @@
+<!--/* Syntax to create a function using Function() constructor along with the new operator.
+<script type = "text/javascript">
+
+		var variablename = new Function(Arg1, Arg2..., "Function Body");
+	//--> 
+
+<html>
+	<head>
+		<script type = "text.javascript">
+			<!--
+				var func = new Function("x", "y", "return x*y;");
+				function secondFunction() {
+					var result;
+					result = func(10,20);
+					document.write ( result );
+				}
+			//-->
+		</script>
+	</head>
+
+	<body>
+		<p>Click the following button to call the function</p>
+
+		<form>
+			<input type = "button" onclick = "secondFunction()" value = "Call Function">
+		</form>
+
+		<p>Use different parameters inside the function and then try...</p>
+	</body>
+</html>
