@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Distracting by phone",
+    "synonyms": [
+      "Distracting by phone",
+      "Texting while driving",
+      "Talking with phone in hand"
+    ]
+  },
+  {
+    "value": "Turned from the wrong lane",
+    "synonyms": [
+      "Turned from the wrong lane",
+      "Made a right turn in front of a bus"
+    ]
+  },
+  {
+    "value": "Speeding excessively",
+    "synonyms": [
+      "Speeding excessively",
+      "Racing",
+      "Speeding in a school zone"
+    ]
+  },
+  {
+    "value": "Weaving through traffic",
+    "synonyms": [
+      "Weaving through traffic",
+      "Zig zagging through traffic",
+      "Erratic lane changing"
+    ]
+  },
+  {
+    "value": "Tailgating",
+    "synonyms": [
+      "Tailgating",
+      "Riding my bumper"
+    ]
+  },
+  {
+    "value": "Illegal passing",
+    "synonyms": [
+      "Illegal lane change",
+      "Driving on the shoulder",
+      "Illegal passing",
+      "Erratic lane changing"
+    ]
+  },
+  {
+    "value": "Ignoring traffic signs or signals",
+    "synonyms": [
+      "Ignoring traffic signs or signals",
+      "Ran the light",
+      "Ran the stop sign"
+    ]
+  }
+]

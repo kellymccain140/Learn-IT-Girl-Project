@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ee4f0341-a670-43a2-800a-70ddb3af576c",
+    "data": [
+      {
+        "text": "Car number is ",
+        "userDefined": false
+      },
+      {
+        "text": "123456",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "606d82f2-25a3-4ab0-a706-fb3ae83dd632",
+    "data": [
+      {
+        "text": "License plate number is ",
+        "userDefined": false
+      },
+      {
+        "text": "BORN2BWILD",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
